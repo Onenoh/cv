@@ -1,0 +1,133 @@
+
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Forum', cursive;
+  color: #FF5C58;
+
+}
+
+h2 {
+font-family: 'Corben', cursive;
+font-size: 2.5rem;
+color: #FF5C58;
+font-weight: normal;
+}
+
+h3 {
+  font-family: 'Corben', cursive;
+  color: #FE8F8F;
+}
+
+body {
+  color: #40514E;
+  margin:0;
+  text-align: center;
+  font-family: 'Arima Madurai', cursive;
+
+}
+
+hr {
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 6%;
+  margin: 100px auto;
+}
+
+
+.top-container {
+  background-color: #FFEDD3;
+  padding-top: 100px;
+  padding-bottom: 0;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+}
+
+.top-cloud {
+  position: relative;
+  left: 300px;
+
+}
+
+.icon {
+  width: 30%;
+  float:left;
+  margin-right: 20px;
+}
+
+.service {
+  width: 25%;
+  float: right;
+  margin-left: 10px;
+}
+
+.btn {
+  background: #FE8F8F;
+  background-image: -webkit-linear-gradient(top, #FE8F8F, #FCD2D1);
+  background-image: -moz-linear-gradient(top, #FE8F8F, #FCD2D1);
+  background-image: -ms-linear-gradient(top, #FE8F8F, #FCD2D1);
+  background-image: -o-linear-gradient(top, #FE8F8F, #FCD2D1);
+  background-image: linear-gradient(to bottom, #FE8F8F, #FCD2D1);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #FE8F8F;
+  background-image: -webkit-linear-gradient(top, #FE8F8F, #FF5C58);
+  background-image: -moz-linear-gradient(top, #FE8F8F, #FF5C58);
+  background-image: -ms-linear-gradient(top, #FE8F8F, #FF5C58);
+  background-image: -o-linear-gradient(top, #FE8F8F, #FF5C58);
+  background-image: linear-gradient(to bottom, #FE8F8F, #FF5C58);
+  text-decoration: none;
+}
+
+
+.middle-container {
+  padding: 100px 0;
+}
+
+.bottom-container {
+  background-color: #FF5C58;
+  padding: 50px 0 20px;
+
+}
+ .footer-link {
+   color: #FE8F8F;
+   text-decoration: none;
+   margin: 20px 10px;
+ }
+
+ .footer-link:hover {
+   color: white;
+
+ }
+
+.contact-me {
+  width: 30%;
+  margin-top: 40px;
+  margin: auto;
+}
+
+ .para {
+   color: white;
+   padding: 20px 0;
+   font-size: 0.75rem;
+ }
+
+.skill-row {
+  width: 50%;
+  margin: 0 auto 100px auto;
+  text-align: left;
+}
